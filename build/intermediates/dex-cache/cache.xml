@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="342406d5c5b8dbcc2144a510437561fd9ba40a2f">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ed89e19d5c2073d54c1b1088c1c78375b4daea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_7e1e26815973345980d17a46ea3718eb8f9c1bae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\.android\build-cache\f93c31bcc80f97773e29c5cc027b783a967d4918\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d08db7ee5898157490b9e3765d12ee582f260d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_140dc640de1ae100d72c0c0266b8a43aa9534774\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\.android\build-cache\f828ca02654d11df15b469eebbb691174bd408ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99900ddc54c621b773c741daed3ab7c8ef799dd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\.android\build-cache\127544b50e07b827bc32a5785046dc2c51003094\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3845b26dffa76ad306468cfbf2c43f82f49e9e16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4e7414aa44df512f92e82ad2b4cd65ad7a1f7bfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\.android\build-cache\91af4e7de1d98c0f2f550cf769ad4d661465f685\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db5aee7e1a5cfdd86cc3a8243807fad5fae43391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\.android\build-cache\dd081879953e06988c0f8ab3c26c6ec4113ca9f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_326ea1bceeb785cf45fa185d19063a10bd40c3a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\.android\build-cache\f3e337fabc3722b6c4a57dcece7f063e753f15dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c242646323d3e8eb7d74cf9eb67d3d67b055714\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\.android\build-cache\048d85157fcee60499088348d52180e75b45a35c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0774af9ffce0e660f3da42170777d340445dbb70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\.android\build-cache\843205d2a40aaf4516e89520727f37cf63ddca7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_771f65b52b674bfb8d091307dcebda5935bb120b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\.android\build-cache\8a53b73a22bd6c0c6d1d8e2c6a6bc6e0a3cb6711\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_582a02276e9ef9d815ab5fb4e39ddf26f2939c4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\waffl\.android\build-cache\e0424d528fe13067727b477fa287fe82567121f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\SeventhQuartCode\MobileApp_Battleship\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1e50dc16523bdfdc47714a5bdf9fb042172109f\classes.dex" />
+    </item>
+
+</items>
